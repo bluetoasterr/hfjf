@@ -1,0 +1,7 @@
+{
+  "name": "Global Role Style",
+  "description": "Locally restyle your own Discord username using a two-color role-style gradient and custom role icon. Supports server emoji IDs; runtime compatibility varies by Discord version.",
+  "authors": [{"name": "bluetoasterr", "id": "0"}],
+  "main": "src/index.ts",
+  "vendetta": {"icon": "Palette"}
+}
